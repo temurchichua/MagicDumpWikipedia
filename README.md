@@ -10,7 +10,7 @@
 
 პროექტი მორგებულია Python 3-ის სამუშაო გარემოზე. გამართული და შემოწმებულია:
 > **Python 3.8.3** (default, Jul  2 2020, 16:21:59) 
->[GCC 7.3.0] :: Anaconda, Inc. on linux
+> [GCC 7.3.0] :: Anaconda, Inc. on linux
 
 
 პროექტს გასაშვებად სჭირდება ორი ბიბლიოთეკა:
@@ -49,5 +49,5 @@ _watch the magic happen ;)_
 > - ***wiki-lastest-pages-articles.txt** - არქივიდან ამოღებული ტექსტი
 > - ***wiki-lastest-pages-articles-preprocessed.txt** - ხაზებად გადანაწილებული წინადადებები
 
-> ### წყარო:
+### წყაროები:
 > 1. [სრული ინსტრუქცია ინგლისურ ენაზე და განხილული კოდის ფრაგმენტები კოდის ავტორისგან](https://towardsdatascience.com/pre-processing-a-wikipedia-dump-for-nlp-model-training-a-write-up-3b9176fdf67)
