@@ -37,7 +37,7 @@ pip install -r requirements.txt
  
  მაგალითად, ქართული ენისთვის:
  
-``` sh magidump.sh ka```
+``` sh magicdump.sh ka```
 
 _watch the magic happen ;)_ 
 
